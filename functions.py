@@ -14,7 +14,7 @@ def calculate_grades(raw_grades : str):
         'PHYED',
         'NSTP',
         'INTACT',
-        'Subject Code'
+        'Subject'
     }
 
     weighted_grade_total = 0
