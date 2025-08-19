@@ -13,7 +13,8 @@ def calculate_grades(raw_grades : str):
     non_qpi_units = {
         'PHYED',
         'NSTP',
-        'INTACT'
+        'INTACT',
+        'Subject Code'
     }
 
     weighted_grade_total = 0
